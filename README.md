@@ -35,3 +35,7 @@ To start the server, run:
 ```bash
 npm start
 ```
+
+## Postman Collection
+
+The Postman collection for the CRUD API can be found in the [postman-collections](postman-collections/crud-api-collection.json) folder.
